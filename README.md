@@ -1,4 +1,4 @@
-### 📬 Contact Information 
+### 📬 Contact Info
 <div align="center">
   <a href="https://www.linkedin.com/in/mohamed-ishag-8366a4355">
     <img width="40" height="40" alt="linkedin" src="https://github.com/user-attachments/assets/64b475f1-d022-4a47-9417-27bed5b51a96" />
