@@ -2,11 +2,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=200&section=header&text=Mohamed%20Ishag&fontSize=40&fontColor=FFFFFF&animation=fadeIn" alt="header"/>
 </p>
-<p align="center">
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=26\&duration=3000\&pause=1000\&color=4F46E5\&center=true\&vCenter=true\&width=700\&lines=C%2B%2B%20%7C%20Algorithms%20%26%20Problem%20Solving;Future%20Software%20Developer"/>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=C%2B%2B%20%7C%20Algorithms%20%26%20Problem%20Solving;Future%20Software%20Developer)
 
-</p>
+</div>
+
 <!-- PROFILE VIEWS + QUICK STATS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohamedishag-dev&style=for-the-badge&color=9333EA&label=PROFILE+VIEWS" alt="views"/>
