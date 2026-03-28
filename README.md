@@ -43,8 +43,8 @@
 
 ---
 ### 🏆 Achievements \& Certificates <img src="https://github.com/user-attachments/assets/d65ddcfd-d90b-4a34-b9cb-aa79d42455e7" width="30">
-- 9 as it should be (Concepts) (Programming Advices)
-- Completed 9+ courses in ***Abu-Hadhoud Roadmap*** (Programming Advices)
+- 9 as it should be (Concepts) [(Programming Advices)](https://ProgrammingAdvices.com)
+- Completed 9+ courses in ***Abu-Hadhoud Roadmap*** [(Programming Advices)](https://ProgrammingAdvices.com)
 - Solved 300+ programming problems
 ---
 
