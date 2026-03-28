@@ -35,7 +35,8 @@
 
 ### 💻 Featured Projects <img src="https://github.com/user-attachments/assets/b00a6f72-8c5e-4c0d-bed6-a9072e29ce3e" width="45">
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
+ <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
+ 
 - [Project 1 ( Stone - Paper - Scissor )]
 - [Project 2 ( Math Game )]
 - [Project 3 ( Bank System )]
