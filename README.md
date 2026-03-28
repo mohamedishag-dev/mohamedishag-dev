@@ -92,6 +92,14 @@
 
 ---
 
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedishag-dev&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedishag-dev&theme=tokyonight" width="48%"/>
+</p>
+
+---
+
 <!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:4F46E5&height=120&section=footer&text=Keep%20Coding%20🚀&fontSize=25&fontColor=FFFFFF&animation=twinkling"/>
