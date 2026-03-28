@@ -26,9 +26,33 @@
 - I love building projects, improving my skills, and sharing my progress with the community.
  
 ### 🛠️ Skills & Tools <img src="https://media.giphy.com/media/3o7TKPdUkkbCAVqW4w/giphy.gif" width="30">
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,visualstudio,git,github"/>
 </p>
+
+---
+
+### 💻 Featured Projects <img src="https://github.com/user-attachments/assets/b00a6f72-8c5e-4c0d-bed6-a9072e29ce3e" width="45">
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
+- [Project 1 ( Stone - Paper - Scissor )]
+- [Project 2 ( Math Game )]
+- [Project 3 ( Bank System )]
+
+---
+### 🏆 Achievements \& Certificates <img src="https://github.com/user-attachments/assets/d65ddcfd-d90b-4a34-b9cb-aa79d42455e7" width="30">
+- 9 as it should be (Concepts) (Programming Advices)
+- Completed 9+ courses in ***Abu-Hadhoud Roadmap*** (Programming Advices)
+- Solved 300+ programming problems
+---
+
+### 🎯 Currently Working On <img src="https://github.com/user-attachments/assets/504bfefe-6b8f-416c-bfe1-a3b0efa2ed73" width="45">
+- **Abu-Hadhoud Roadmap**
+- Mastering **C++**  💡  
+- Algorithms and Problem Solving  
+- Practicing with small projects 🛠️  
+- Improving my professional profile on **GitHub** and **LinkedIn**
 
 <!--  Contact Information -->
 ---
@@ -48,7 +72,7 @@
 </a>
 </div>
 
-## 📊 Language Distribution
+## 📊 Language Distribution 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohamedishag-dev&theme=tokyonight" width="45%"/>
 </p>
