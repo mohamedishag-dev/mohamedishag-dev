@@ -37,9 +37,9 @@
 
  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
  
-- [Project 1 ( Stone - Paper - Scissor )]
-- [Project 2 ( Math Game )]
-- [Project 3 ( Bank System )]
+- [Project 1 ( Stone - Paper - Scissor )](https://github.com/mohamedishag-dev/Project-1-Stone---Paper---Scissor-.git)
+- [Project 2 ( Math Game )](https://github.com/mohamedisha/Project-2-Math-Game.git)
+- [Project 3 ( Bank System )](https://github.com/mohamedisha/Project-4--Bank-1.git)
 
 ---
 ### 🏆 Achievements \& Certificates <img src="https://github.com/user-attachments/assets/d65ddcfd-d90b-4a34-b9cb-aa79d42455e7" width="30">
