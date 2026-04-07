@@ -85,19 +85,17 @@
 
 ---
 
-## 📊 Language Distribution
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohamedishag-dev&theme=tokyonight" width="45%"/>
-</p>
-
----
-
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedishag-dev&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedishag-dev&theme=tokyonight" width="48%"/>
-</p>
 
+<div align="center">
+
+| ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohamedishag-dev&theme=radical) | ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohamedishag-dev&theme=radical) |
+|:-:|:-:|
+
+| ![Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedishag-dev&theme=radical) | ![Streak](https://streak-stats.demolab.com?user=mohamedishag-dev&theme=tokyonight&hide_border=false) |
+|:-:|:-:|
+
+</div>
 ---
 
 <!-- FOOTER -->
