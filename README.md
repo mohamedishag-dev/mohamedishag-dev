@@ -68,7 +68,7 @@ I'm A student passionate about programming, Currently learning **C++**, and prob
 
 - **linkedin:**[@mohamedishag](https://www.linkedin.com/in/mohamed-ishag-8328683ba)
 - **Github:**[@mohamedishag](https://github.com/user-attachments/assets/bedb4d22-ca85-48e3-b4e1-5e4d5ac993ae)
-- **X:**[@mohamedishag](https://github.com/user-attachments/assets/bedb4d22-ca85-48e3-b4e1-5e4d5ac993ae)
+- **Twitter:**[@mohamedishag](https://github.com/user-attachments/assets/bedb4d22-ca85-48e3-b4e1-5e4d5ac993ae)
 
 ---
 
