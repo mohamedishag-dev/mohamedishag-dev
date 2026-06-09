@@ -7,8 +7,10 @@ I'm A student passionate about programming, Currently learning **C++**, and prob
 <!-- TYPING EFFECT -->
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,cpp,visualstudio,git,github"/>
+<img src="https://skillicons.dev/icons?i=cs,cpp"/>
+  <img src="https://skillicons.dev/icons?i=dotnet,visualstudio,git,github"/>
 </p>
+
 
 ---
 
