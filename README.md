@@ -16,7 +16,7 @@ I'm A student passionate about programming, Currently learning **C++**, and prob
 ### 💻 Featured Projects 
 
 ####     [Pizza Order](https://github.com/mohamedishag-dev/Pizza-Order.git) 
-####     [XO Game](https://github.com/mohamedishag-dev/Tic_Tac_Toe-Game.git) 
+####  🧮 [XO Game](https://github.com/mohamedishag-dev/Tic_Tac_Toe-Game.git) 
 ####     [Calculator](https://github.com/mohamedishag-dev/Calculator.git)
 #### 🎮  [Stone - Paper - Scissor](https://github.com/mohamedishag-dev/Project-1-Stone---Paper---Scissor-.git) 
 #### ➗ [Math Game](https://github.com/mohamedishag-dev/Project-2-Math-Game-.git) 
